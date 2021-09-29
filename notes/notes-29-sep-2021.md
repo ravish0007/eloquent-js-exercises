@@ -1,7 +1,6 @@
-# 29-09-2021
+# 29-sep-2021
 
-### Exercise-2
-
+### 1 - Exercise-2, Looping A Triangle
 
 - Looping A Triangle
   - Used two for loops
@@ -31,6 +30,8 @@ for (let line = "#"; line.length < 8; line += "#")
 ```
 
 <hr>
+
+### 2 - Exercise-2, FizzBuzz
 
 - FizzBuzz
   - Knew about this elegant code from [Tom Scott's video](https://www.youtube.com/watch?v=QPZ0pIK_wsc)
@@ -71,6 +72,8 @@ for (let n = 1; n <= 100; n++) {
 ```
 
 <hr>
+
+### 3 - Exercise-2, ChessBoard
 
 - ChessBoard
   - populating two patterns and printing them one after the other
