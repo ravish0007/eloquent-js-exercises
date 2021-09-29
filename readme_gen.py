@@ -13,7 +13,7 @@ def override_print(x):
 
 print = override_print
 
-BLOB_PATH="https://github.com/...../notes"
+BLOB_PATH = "https://github.com/ravish0007/eloquent-js-exercises/tree/main/notes/"
 
 mds = [ md for md in os.listdir("./notes/") if md.endswith(".md") ]
 mds.remove('notes-dd-mmm-yyyy.md')

@@ -11,6 +11,6 @@
 
 | LINK |
 |------|
-|[Exercise-2, looping a triangle](https://github.com/...../notesnotes-29-sep-2021.md#1---exercise-2-looping-a-triangle) |
-|[Exercise-2, fizzbuzz](https://github.com/...../notesnotes-29-sep-2021.md#2---exercise-2-fizzbuzz) |
-|[Exercise-2, chessboard](https://github.com/...../notesnotes-29-sep-2021.md#3---exercise-2-chessboard) |
+|[Exercise-2, looping a triangle](https://github.com/ravish0007/eloquent-js-exercises/tree/main/notes/notes-29-sep-2021.md#1---exercise-2-looping-a-triangle) |
+|[Exercise-2, fizzbuzz](https://github.com/ravish0007/eloquent-js-exercises/tree/main/notes/notes-29-sep-2021.md#2---exercise-2-fizzbuzz) |
+|[Exercise-2, chessboard](https://github.com/ravish0007/eloquent-js-exercises/tree/main/notes/notes-29-sep-2021.md#3---exercise-2-chessboard) |
