@@ -1,18 +1,18 @@
 for (let num = 1; num < 101; num++) {
-	ans = ""
+	ans = "";
 	
 	if (num%3 == 0) {
-		ans += "Fizz"
+		ans += "Fizz";
 	}
 
 	if (num%5 == 0) {
-		ans += "Buzz"
+		ans += "Buzz";
 	}
 
 	if (ans) {
-		console.log(ans)
+		console.log(ans);
 	} 
 	else {
-		console.log(num)
+		console.log(num);
 	}	
 }
