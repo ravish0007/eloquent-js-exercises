@@ -308,7 +308,7 @@ function loop(start, test, update, body) {
 
 <hr>
 
-### 7 - Exercise-5, Stuff
+### 7 - Exercise-5, Everything
 
 - everything
 
